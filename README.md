@@ -16,13 +16,12 @@ Vide tutoriais do PI.
 
 ## Integrantes: <a href="https://www.linkedin.com/in/aleff-souza/">Aleff Souza</a>, <a href="https://www.linkedin.com/in/matheuszimmer/">Matheus Zimmer</a>, <a href="https://www.linkedin.com/in/jo%C3%A3o-paulo-souza-colombo-401012215/">Joao Paulo Colombo</a>, <a href="https://www.linkedin.com/in/luis-felipe-torelli-sparrapan-05b54b2b5/">Luis Felipe Sparrapan</a>
 
-## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Dr. Victor Von Doom</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Saitama</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Strange</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Yoda</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Gero</a>
+## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Victor Bruno Alexander Rosetti de Quiroz</a>, <a href="https://www.linkedin.com/in/victorbarq/">Rafael Diogo Rossetti</a>, <a href="https://www.linkedin.com/in/victorbarq/">Marcos Minoru Nakatsugawa</a>, <a href="https://www.linkedin.com/in/victorbarq/">Rodrigo da Rosa</a>, <a href="https://www.linkedin.com/in/victorbarq/">Renata Muniz Do Nascimento</a>
 
 ## Descrição
 
 <p align="center">
-<img src="https://pix4free.org/assets/library/2021-01-20/originals/game.jpg" alt="BBS - Bite Byte Solutions" border="0">
-  Game by <a href="http://www.nyphotographic.com/">Nick Youngson</a> <a rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> <a href="http://pix4free.org/">Pix4free</a>
+<img src="imagens/Logo Byte Bite.png" alt="BBS - Bite Byte Solutions" border="0">
 </p>
 
 
@@ -66,10 +65,6 @@ Há também 4 pastas que seguem da seguinte forma:
 
 ## 🛠 Instalação
 
-<b>Android:</b>
-
-Faça o Download do JOGO.apk no seu celular.
-Execute o APK e siga as instruções de seu telefone.
 
 ```sh
 Coloque código do prompt de comnando se for necessário
