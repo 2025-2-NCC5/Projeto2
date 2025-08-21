@@ -24,7 +24,6 @@ Vide tutoriais do PI.
 <img src="imagens/Logo Byte Bite.png" alt="BBS - Bite Byte Solutions" border="0">
 </p>
 
-
 De um a dois parágrafos sobre o que é seu projeto e o que ele faz.
 <br><br>
 Meu projeto ajuda estudantes FECAP a configurarem seus githubs.
