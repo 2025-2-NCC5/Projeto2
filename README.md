@@ -73,24 +73,38 @@ Durante o processo, foram realizadas demonstrações, reuniões de validação e
 ## 🔧 Estrutura de Pastas  
 
 ```
-Raiz
-│
-├── documentos
-│   ├── antigos
-│   └── Documentação.docx
-│
-├── executáveis
-│   ├── windows
-│   ├── android
-│   └── HTML
-│
-├── imagens
-│
-├── src
-│   ├── Backend
-│   └── Frontend
-│
-└── README.md
+-Raiz
+|
+|-->documentos
+ |-->Entrega 1
+  |-->Algebra Linear, Vetores e Geometria Analitica
+  |-->Inteligencia Artificial e Aprendizado de Maquina
+  |-->Projeto Interdisciplinar | Inteligencia Artificial
+  |-->Psicologia, Liderança e Soft Skills
+  |-->Sistemas Operacionais e Computação em Nuvem
+ |-->Entrega 2
+  |-->Algebra Linear, Vetores e Geometria Analitica
+  |-->Inteligencia Artificial e Aprendizado de Maquina
+  |-->Projeto Interdisciplinar | Inteligencia Artificial
+  |-->Psicologia, Liderança e Soft Skills
+  |-->Sistemas Operacionais e Computação em Nuvem
+ |Documento - Projeto de Extensão - COM Empresa.docx
+ |readme.md
+|-->executáveis
+ |-->windows
+ |-->android
+ |-->HTML
+|-->imagens
+|-->src
+ |-->Entrega 1
+  |-->assets
+  |-->Backend
+  |-->Frontend
+ |-->Entrega 2
+  |-->Backend
+  |-->Frontend
+|.gitignore
+|readme.md
 ```
 
 ---
